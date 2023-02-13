@@ -67,7 +67,7 @@ The DES algorithm written in TeleBASIC
    
    The paper is pretty well layed out, I'm confident that you'll be able to follow it. I'm not really going to do a long writeup for this. There are comments amongst the source in case you'd like to follow along. I explain what each step is doing.
    
-   I'm also disappointed that this program's can't be referenced externally outside of Telehack. I wanted the ability to have the output used elsewhere, online, but I tried my output on CyberChef, and it didn't yield my input result :( I think that they're using TripleDES. A little disappointing :(
+   I'm also disappointed that this program can't be referenced externally outside of Telehack. I wanted the ability to have the output used elsewhere, online, but I tried my output on CyberChef, and it didn't yield my input result :( I think that they're using TripleDES. A little disappointing :(
    
    With that being said, I'll consider this a Telehack port. Though it does follow the encryption algorithm true to the whitepaper and to the best of Telebasic's capability.
    
